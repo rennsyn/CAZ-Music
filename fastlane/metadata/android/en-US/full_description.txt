@@ -1,0 +1,20 @@
+An elegant and light weight music player
+
+Features
+
+- No Ads forever
+- Listen to music
+- Simple and modern design
+- Blazing fast performance and minimal battery usage
+- Manage the queue and shuffle/ repeat mode
+- Change the accent of the app
+- Manage folders to exclude(hide)
+- Automatic scanning of media files
+- Browse/ Sort/ Search albums and artists
+- Change between Dark and Light Modes
+- Easily search songs by keywords
+- Lock screen controls and play in the notification bar
+- Headset controls
+- Listen to music
+- Sleep timer
+
